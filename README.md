@@ -6,4 +6,6 @@
 
 **Please let us know if there are any problems/errors in the executer that we need to fix!**
 
+**Watch the Youtube tutorial if you cannot get it working https://www.youtube.com/watch?v=WTFdVaXEVoo**
+
 **Have fun using Asteroid!**
